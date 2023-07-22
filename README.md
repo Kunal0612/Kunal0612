@@ -1,10 +1,10 @@
 ![logo](https://github.com/Kunal0612/Kunal0612/blob/main/dino.gif)
-<h1 align="center">Hello Connections, I'm Kunal Shaw</h1>
+<h1 align="center">Hello Connections👋, I'm Kunal Shaw</h1>
 <h3 align="center">A passionate Competitive Programmer and Web Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Kunal0612&color=1a95ce)
-<h2 align="left">👋 About Me</h2>
+<h2 align="left"> 🎗️About Me</h2>
 -> Solved More than 2500+ coding problem across platforms 
 <br>
 -> Ranked 1101(1st in College) on ICPC Amritapuri Pre-round(2022-23)
