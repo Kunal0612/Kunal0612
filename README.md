@@ -21,18 +21,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunal0612" alt="kunal0612" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kunal0611" target="blank"><img src="https://img.shields.io/twitter/follow/kunal0611?logo=twitter&style=for-the-badge" alt="kunal0611" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kunalshaw0611" target="blank"><img src="https://img.shields.io/twitter/follow/kunalshaw0611?logo=twitter&style=for-the-badge" alt="kunalshaw0611" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kunal0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunal0611" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-shaw-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-shaw-/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/kunal_shaw12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kunal_shaw12/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/kunal0612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kunal0612" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/kunal0612?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kunal0612?hr_r=1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/kunal0612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/kunal0612" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/kunal0612/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/kunal0612/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kunal0612/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kunal0612/practice" height="30" width="40" /></a>
+<a href="https://twitter.com/kunalshaw0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalshaw0611" height="30" width="40" /></a>
+<a href="https://instagram.com/kunal_shaw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal_shaw12" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kunal0612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kunal0612" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kunal0612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kunal0612" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/kunal0612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kunal0612" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kunal0612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kunal0612" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/kunal0612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kunal0612" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal0612&show_icons=true&locale=en&layout=compact" alt="kunal0612" /></p>
