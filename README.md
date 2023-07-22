@@ -6,7 +6,9 @@
 <h2 align="Center">👋 About Me</h2>
 -> Solved More than 2500+ coding problem across platforms 
 <br>
--> Ranked 1101(1st in College) on ICPC Amritapuri Preliminary Round 2022-2023.
+-> Ranked 1101(1st in College) on ICPC Amritapuri Preliminary
+<br>
+   Round 2022-2023.
 <br>
 -> Specialist❄️ on CodeForces(1402+ Rating, 365+ Days Streak)
 <br>
