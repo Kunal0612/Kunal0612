@@ -24,7 +24,7 @@
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
-| BTech (CSE) | <img src="[https://www.glbajajgroup.org/img/about-us/new-logo-glbajaj.webp](https://www.nsec.ac.in/images/NSEC_Logo.png)" width="30" height="30"/> | NETAJI SUBHASH ENGINEERING COLLEGE  | 8.9 CGPA | 2025 - Grad |
+| BTech (CSE) | <img src="https://www.google.com/search?rlz=1C1CHBF_enIN1031IN1031&sxsrf=AB5stBjQlON7wpHnh25zLV1doqs40IJBCA:1690008242983&q=nsec&tbm=isch&sa=X&ved=2ahUKEwiE-fWn26GAAxVRcWwGHYJsDv8Q0pQJegQICxAB&cshid=1690008431890507&biw=1366&bih=617&dpr=1#imgrc=c8JjAfAdcSeQ-M" width="30" height="30"/> | NETAJI SUBHASH ENGINEERING COLLEGE  | 8.9 CGPA | 2025 - Grad |
 | 10+2 (PCM) | <img src="https://upload.wikimedia.org/wikipedia/en/b/b7/West_Bengal_Council_of_Higher_Secondary_Education_Logo.png" width="30" height="30"/> | East Point School Ichapur | 89% | May 19 - Jul 21 |
 
 
