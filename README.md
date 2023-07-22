@@ -24,7 +24,7 @@
 
 | | |  || | 
 |-----------|-----------|-----------|-----------|-----------|
-| BTech (CSE) | <img src="https://www.nsec.ac.in/images/nsec_logo_w1013xh1363.png" width="30" height="30"/> | NETAJI SUBHASH ENGINEERING COLLEGE  | 8.9 CGPA | 2025 - Grad |
+| BTech (CSE) | <img src="https://www.nsec.ac.in/images/nsec_logo_w1013xh1363.png" width="30" height="30"/> | NETAJI SUBHASH ENGINEERING COLLEGE  | 8.9 CGPA | 2021-25 |
 | Secondary Education (PCM) | <img src="https://mlvpyactzzjo.i.optimole.com/w:200/h:195/q:mauto/f:avif/https://eastpointschool.org.in/wp-content/uploads/2022/07/eps_logo-200px_.png" width="30" height="30"/> | East Point School Ichapur | 89% | May 19 - Jul 21 |
 | Primary Education | <img src="https://play-lh.googleusercontent.com/wqPyWooSIArRIjnENHncceRG5JrE20Jo6Iy6YiC1FOys5ldLiE61Uk-KskMV8zaPQw" width="30" height="30"/> | Air Force School Barrackpore | 88% | May 12 - June 19 |
 
