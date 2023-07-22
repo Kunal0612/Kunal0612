@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Shaw</h1>
 <h3 align="center">A passionate Competitive Programmer and Web Developer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Kunal0612/Kunal0612/assets/106906341/6d863682-8780-4b6d-b7c0-c4b81214f6fb)
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Kunal0612&color=1a95ce)
 <h2 align="Center">👋 About Me</h2>
