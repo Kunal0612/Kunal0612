@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Kunal0612&color=1a95ce)
-<h2 align="Center">👋 About Me</h2>
+<h2 align="left">👋 About Me</h2>
 -> Solved More than 2500+ coding problem across platforms 
 <br>
 -> Ranked 1101(1st in College) on ICPC Amritapuri Pre-round(2022-23)
@@ -17,7 +17,7 @@
 <br>
 -> 8K+ LinkedIn 🚀
 <br>
--> Connect With me here 📫 : [Kunal Shaw](https://www.linkedin.com/in/kunal-shaw-/)
+-> Connect With me here 📫 : ![Kunal Shaw](https://www.linkedin.com/in/kunal-shaw-/)
 <br>
 <br>
 <br>
