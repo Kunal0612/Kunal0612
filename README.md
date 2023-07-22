@@ -12,3 +12,5 @@
 -> Knight on Leetode(1895+ Rating,1100+ Q,365+ Days Streak)
 <br>
 -> 3 Star on Codechef(1729)
+<br>
+-> 8K+ LinkedIn 🚀
