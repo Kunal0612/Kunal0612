@@ -29,9 +29,8 @@
 <br>
 - 4 Star⭐ on Codechef (1908)
 <br>
-- 17K+ LinkedIn 🚀
-<br>
--> Connect With me here 📫 : ![Kunal Shaw](https://www.linkedin.com/in/kunal-shaw-/)
+- 17K+ LinkedIn Followers on Linkedin🚀
+
 <br>
 <br>
 <br>
