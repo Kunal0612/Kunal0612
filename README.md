@@ -5,18 +5,31 @@
 <img align="right" alt="coding" width="375" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=Kunal0612&color=1a95ce)
-<h2 align="left"> 🎗️About Me</h2>
--> Solved More than 4000+ coding problem across platforms 
+
+- 🌱 I’m currently learning **MERN STACK**
+
+- 👨‍💻 All of my projects are available at [https://portfolio-kunal0612.vercel.app/](https://portfolio-kunal0612.vercel.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@kunalshaw865](https://medium.com/@kunalshaw865)
+
+- 💬 Ask me about **DSA , CP , MERN**
+
+- 📫 How to reach me **https://www.linkedin.com/in/kunal-shaw-/**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1AoqLb5uEQ_X-xIuYOPo6qTSPnVs22R28/view](https://drive.google.com/file/d/1AoqLb5uEQ_X-xIuYOPo6qTSPnVs22R28/view)
+
+<h2 align="left">Some of my Achievements</h2>
+- Solved More than 4000+ coding problem across all coding platforms ! 
 <br>
--> Ranked 1101(1st in College) on ICPC Amritapuri Pre-round(2022-23)
+- Ranked 1101(1st in College) on ICPC Amritapuri Pre-round(2022-23)
 <br>
--> Expert❄️ on CodeForces (1618+ Rating, 365+ Days Streak)
+- Expert🔵 on CodeForces (1618+ Rating, 365+ Days Streak) 
 <br>
--> Knight🔥 on Leetode (2064+ Rating,1500+ Q, 365+ Days Streak)
+- Knight on Leetode (2064+ Rating,1500+ Q, 365+ Days Streak) 
 <br>
--> 4 Star⭐ on Codechef (1908)
+- 4 Star⭐ on Codechef (1908)
 <br>
--> 17K+ LinkedIn 🚀
+- 17K+ LinkedIn 🚀
 <br>
 -> Connect With me here 📫 : ![Kunal Shaw](https://www.linkedin.com/in/kunal-shaw-/)
 <br>
