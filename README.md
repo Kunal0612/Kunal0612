@@ -1,4 +1,4 @@
-![logo]([https://github.com/Kunal0612/Kunal0612/blob/main/dino.gif])
+![logo]([https://github.com/Kunal0612/Kunal0612/blob/main/dino.gif?raw=true])
 <h1 align="center">Hello Connections👋, I'm Kunal Shaw</h1>
 <h3 align="center">A passionate Competitive Programmer and Web Developer from India 🌐</h3>
 
