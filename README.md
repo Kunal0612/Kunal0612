@@ -19,16 +19,17 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AoqLb5uEQ_X-xIuYOPo6qTSPnVs22R28/view](https://drive.google.com/file/d/1AoqLb5uEQ_X-xIuYOPo6qTSPnVs22R28/view)
 
 <h2 align="left">Some of my Achievements</h2>
-- Solved More than 4000+ coding problem across all coding platforms ! 
-<br>
+
+- Solved More than 4000+ coding problem across all coding platforms !
+- 
 - Ranked 1101(1st in College) on ICPC Amritapuri Pre-round(2022-23)
-<br>
+
 - Expert🔵 on CodeForces (1618+ Rating, 365+ Days Streak) 
-<br>
+
 - Knight on Leetode (2064+ Rating,1500+ Q, 365+ Days Streak) 
-<br>
+
 - 4 Star⭐ on Codechef (1908)
-<br>
+
 - 17K+ LinkedIn Followers on Linkedin🚀
 
 <br>
