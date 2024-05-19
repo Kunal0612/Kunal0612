@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **DSA , CP , MERN**
 
-- 📫 How to reach me **https://www.linkedin.com/in/kunal-shaw-/**
+- 📫 How to reach me <a href="https://www.linkedin.com/in/kunal-shaw-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-shaw-/" height="30" width="40" /></a>
 
 - 📄 Know about my experiences from my Resume [https://drive.google.com/file/d/1AoqLb5uEQ_X-xIuYOPo6qTSPnVs22R28/view](https://drive.google.com/file/d/1AoqLb5uEQ_X-xIuYOPo6qTSPnVs22R28/view)
 
@@ -54,7 +54,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kunalshaw0611" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunalshaw0611" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kunal-shaw-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-shaw-/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kunal-shaw-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-shaw-/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25125995" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25125995" height="30" width="40" /></a>
 <a href="https://fb.com/kunal.shaw.3958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kunal.shaw.3958" height="30" width="40" /></a>
 <a href="https://instagram.com/kunal_shaw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal_shaw12" height="30" width="40" /></a>
