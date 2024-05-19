@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/kunal-shaw-/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AoqLb5uEQ_X-xIuYOPo6qTSPnVs22R28/view](https://drive.google.com/file/d/1AoqLb5uEQ_X-xIuYOPo6qTSPnVs22R28/view)
+- 📄 Know about my experiences from my Resume [https://drive.google.com/file/d/1AoqLb5uEQ_X-xIuYOPo6qTSPnVs22R28/view](https://drive.google.com/file/d/1AoqLb5uEQ_X-xIuYOPo6qTSPnVs22R28/view)
 
 <h2 align="left">Some of my Achievements</h2>
 
