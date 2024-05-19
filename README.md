@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-kunal0612.vercel.app/](https://portfolio-kunal0612.vercel.app/)
+- 👨‍💻 All of my projects are available at <a href="https://portfolio-kunal0612.vercel.app/" target="">Portfolio</a>
 
-- 📝 I regularly write articles on [https://medium.com/@kunalshaw865](https://medium.com/@kunalshaw865)
+- 📝 I regularly write articles on <a href="https://medium.com/@kunalshaw865" target="">Medium</a>
 
-- 💬 Ask me about **DSA , CP , MERN**
+- 💬 Ask me anything about **DSA , CP , MERN**
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/kunal-shaw-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kunal-shaw-/" height="30" width="40" /></a>
+- 📫 How to reach me **kunalshaw865@gmail.com**
 
-- 📄 Know about my experiences from my Resume [https://drive.google.com/file/d/1AoqLb5uEQ_X-xIuYOPo6qTSPnVs22R28/view](https://drive.google.com/file/d/1AoqLb5uEQ_X-xIuYOPo6qTSPnVs22R28/view)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1AoqLb5uEQ_X-xIuYOPo6qTSPnVs22R28/view)
 
 <h2 align="left">Some of my Achievements</h2>
 
@@ -60,6 +60,8 @@
 <a href="https://instagram.com/kunal_shaw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunal_shaw12" height="30" width="40" /></a>
 <a href="https://medium.com/https://medium.com/@kunalshaw865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@kunalshaw865" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@kunalshaw7069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kunalshaw7069" height="30" width="40" /></a>
+<h3 align="left">Coding Profiles:</h3>
+<p align="left">
 <a href="https://www.codechef.com/users/kunal0612" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kunal0612" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kunal0612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kunal0612" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kunal0612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kunal0612" height="30" width="40" /></a>
