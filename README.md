@@ -21,7 +21,7 @@
 <h2 align="left">Some of my Achievements</h2>
 
 - Solved More than 4000+ coding problem across all coding platforms !
-- 
+  
 - Ranked 1101(1st in College) on ICPC Amritapuri Pre-round(2022-23)
 
 - Expert🔵 on CodeForces (1618+ Rating, 365+ Days Streak) 
@@ -32,10 +32,7 @@
 
 - 17K+ LinkedIn Followers on Linkedin🚀
 
-<br>
-<br>
-<br>
-<br>
+
 <h2>📚 Academic  </h2>
 
 | | |  || | 
