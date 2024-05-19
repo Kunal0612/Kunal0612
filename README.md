@@ -10,13 +10,13 @@
 <br>
 -> Ranked 1101(1st in College) on ICPC Amritapuri Pre-round(2022-23)
 <br>
--> Specialist❄️ on CodeForces (1523+ Rating, 365+ Days Streak)
+-> Expert❄️ on CodeForces (1618+ Rating, 365+ Days Streak)
 <br>
 -> Knight🔥 on Leetode (2064+ Rating,1500+ Q, 365+ Days Streak)
 <br>
--> 4 Star⭐ on Codechef (1843)
+-> 4 Star⭐ on Codechef (1908)
 <br>
--> 15K+ LinkedIn 🚀
+-> 17K+ LinkedIn 🚀
 <br>
 -> Connect With me here 📫 : ![Kunal Shaw](https://www.linkedin.com/in/kunal-shaw-/)
 <br>
