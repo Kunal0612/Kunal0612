@@ -24,13 +24,13 @@
   
 - Ranked 1101(1st in College) on ICPC Amritapuri Pre-round(2022-23)
 
-- Expert🔵 on CodeForces (1618+ Rating, 365+ Days Streak) 
+- Expert🔵 on CodeForces (1652+ Rating, 365+ Days Streak) 
 
-- Knight on Leetode (2064+ Rating,1500+ Q, 365+ Days Streak) 
+- Knight on Leetode (2115+ Rating,1600+ Q, 365+ Days Streak) 
 
-- 4 Star⭐ on Codechef (1908)
+- 4 Star⭐ on Codechef (1972)
 
-- 17K+ LinkedIn Followers on Linkedin🚀
+- 19K+ LinkedIn Followers on Linkedin🚀
 
 
 <h2>📚 Academic  </h2>
